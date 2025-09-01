@@ -1,8 +1,7 @@
 <div align="center">
-  <a href="https://github.com/your-username">
-    <img src="https://avatars.githubusercontent.com/u/YOUR_GITHUB_AVATAR_ID?v=4" alt="Arpit Yadav's GitHub Avatar" width="150" style="border-radius: 50%;">
-  </a>
-  <h1>👋 Hi there, I'm Arpit Yadav!</h1>
+  <h1>
+    <span class="animated-name">👋 Hi there, I'm Arpit Yadav!</span>
+  </h1>
   <p>Full Stack Web Dev | AI/ML Explorer | B.Tech CSE | Future Engineer in Tech & Innovation</p>
   <p>📍 Noida, Uttar Pradesh, India</p>
 
@@ -132,3 +131,29 @@
 <div align="center">
   <p>Thanks for stopping by! Made with ❤️ by Arpit Yadav</p>
 </div>
+
+<style>
+/* Please note: GitHub's markdown rendering is limited. 
+   Complex CSS animations might not work directly within the README.
+   For best results, you might need to convert this into a GIF or an SVG 
+   if GitHub prevents direct CSS injection.
+*/
+
+.animated-name {
+  display: inline-block; /* Essential for applying transforms to text */
+  animation: wave 2s ease-in-out infinite;
+  transform-origin: bottom; /* Makes it wave from the bottom */
+}
+
+@keyframes wave {
+  0%, 100% {
+    transform: rotate(0deg);
+  }
+  25% {
+    transform: rotate(3deg); /* Slight upward tilt */
+  }
+  75% {
+    transform: rotate(-3deg); /* Slight downward tilt */
+  }
+}
+</style>
