@@ -1,13 +1,9 @@
 <div align="center">
   <h1>
-    <span class="animated-name">👋 Hi there, I'm Arpit Yadav!</span>
+    <img src="https://your-image-host.com/path/to/your-animated-name.gif" alt="Animated Hi there, I'm Arpit Yadav!" />
   </h1>
   <p>Full Stack Web Dev | AI/ML Explorer | B.Tech CSE | Future Engineer in Tech & Innovation</p>
-  <p>📍 Noida, Uttar Pradesh, India</p>
-
-  <div class="animated-intro">
-    <p>Building real-world solutions through technology, one line of code at a time!</p>
-    </div>
+  </div>
 
   <div class="badges">
     <a href="https://linkedin.com/in/arpit-yadav-linkedin-profile-id" target="_blank">
@@ -118,10 +114,10 @@
 <div align="center" class="connect-animation">
   <p>I'm always eager to collaborate on exciting projects, discuss new technologies, or just chat about the future of tech!</p>
   <p>Feel free to reach out:</p>
-  <a href="https://linkedin.com/in/arpit-yadav-linkedin-profile-id" target="_blank">
+  <a href="https://www.linkedin.com/in/arpit-yadav-4b14a8357/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:arpitcse.23@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   </div>
