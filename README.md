@@ -1,101 +1,175 @@
-<div align="center">
-  <h1>👋 Hi there, I'm Arpit Yadav!</h1>
-  <p>Full Stack Web Dev | AI/ML Explorer | B.Tech CSE | Future Engineer in Tech & Innovation</p>
-  <p>📍 Noida, Uttar Pradesh, India</p>
+# Hi there, I'm Arpit kumar yadav👋
 
-  <p><em>Building real-world solutions through technology, one line of code at a time!</em></p>
+I'm a passionate **Computer Science Engineering student** and **quantitative finance enthusiast**, currently building my path toward becoming a quant engineer at top HFT firms. My focus is on creating intelligent, scalable applications that solve real-world problems, particularly at the intersection of **technology and finance**.
 
-  <div>
-    <a href="https://www.linkedin.com/in/arpit-yadav-4b14a8357/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="mailto:arpitcse.23@gmail.com">
-      <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-    </a>
-  </div>
+<div align="right">
+
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=0891b2&style=flat-square&label=Profile+Views)
+
 </div>
 
 ---
 
-### 🚀 About Me
+### 🚀 My Tech Stack
 
-I'm a B.Tech CSE student at IILM University, Greater Noida, deeply passionate about building impactful, real-world solutions through technology.
+A comprehensive collection of technologies and tools I am proficient in:
 
-Currently, I'm diving deep into **Full Stack Web Development** while actively exploring exciting projects in **AI and Machine Learning**. I thrive in dynamic environments, having participated in various hackathons, and I absolutely love turning innovative ideas into working **MVPs fast**.
+**Languages:**
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-My ultimate goal is to grow into a skilled software and AI/ML engineer capable of solving complex, real-world problems at scale.
+**Quantitative Finance & Data Science:**
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Scikit Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
 
-- 🔥 **Currently working on:** Full Stack Projects, Meta AI Hackathon MVP
-- 💛 **Open to:** Collaboration, Internships, and Learning Opportunities!
+**Frontend & Backend Development:**
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
----
+**Tools & Platforms:**
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### 🌟 My AI Journey: A Recent Milestone
-
-After weeks of learning, building, and experimenting, I've successfully completed the **Google Gen AI Exchange Program** in collaboration with Hack2Skill and Google Cloud! This journey earned me **5 Skill Badges** in Generative AI, prompt engineering, and AI application development.
-
-**What I Accomplished:**
-1.  **Prompt Design in Vertex AI:** Gained skills in prompt engineering and multimodal generative techniques using Gemini models for real-world marketing scenarios.
-2.  **Build Real World AI Applications with Gemini and Imagen:** Worked on image recognition, NLP, and image generation with Gemini & Imagen, and deployed AI applications on Vertex AI.
-3.  **Develop GenAI Apps with Gemini and Streamlit:** Built AI-powered apps with text generation, function calling, and deployed using Streamlit + Cloud Run.
-4.  **Inspect Rich Documents with Gemini Multimodality and Multimodal RAG:** Used multimodal prompts for extracting insights from text, images, and video, and implemented Multimodal Retrieval Augmented Generation (RAG).
-5.  **Explore Generative AI with the Gemini API in Vertex AI:** Explored advanced text, image, and video analysis, multimodal content generation, and function calling techniques.
-
-This program gave me hands-on experience with Google Cloud's powerful AI ecosystem to design, build, and deploy AI solutions for real-world use cases. A big thanks to [Hack2Skill](https://hack2skill.com/) and [Google Cloud](https://cloud.google.com/) for this incredible learning experience! ✨
-
-<p align="center">
-  <em>#GoogleCloud #Hack2Skill #GenerativeAI #VertexAI #GeminiAPI #MachineLearning #AI</em>
-</p>
-
----
-
-### 🎓 Education
-
-**IILM University, Greater Noida** *Bachelor of Technology - B.Tech, Computer Science* *(Aug 2024 - May 2028)*
-
-**Activities & Societies:**
-- Member of the Coding Club & College AI/ML Group
-- Active participant in Hackathons, building innovative MVPs and solutions
-- Contributor to college tech events and developer communities
+**Competitive Programming:**
+![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
+![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
+![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 💻 My Featured Projects
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,flask,tensorflow,pytorch,docker,git,github,vscode,gcp,aws" alt="My Tech Stack" />
-</p>
+Here are some of the projects I'm most proud of. Click the links to explore them!
+
+| Project | Description | Tech Stack | Status |
+|---------|-------------|------------|--------|
+| 🚀 **[Quantitative Trading Engine](https://github.com/yourusername/trading-engine)** | Advanced algorithmic trading system with real-time market data analysis, backtesting framework, and risk management for multiple asset classes. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) | ✅ **Live** |
+| 🤖 **[Gig Coach AI](https://github.com/yourusername/gigcoach-ai)** | AI-powered career coaching platform with personalized job recommendations, resume optimization, and interview preparation tools for freelancers and job seekers. | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | 🏆 **Winner** |
+| 📊 **[Portfolio Optimization Tool](https://github.com/yourusername/portfolio-optimizer)** | Modern portfolio theory implementation with Monte Carlo simulations, efficient frontier calculation, and risk-adjusted returns analysis. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=matplotlib&logoColor=white) | 🔄 **Active** |
+| 🤖 **[HFT Market Maker Bot](https://github.com/yourusername/market-maker)** | High-frequency trading bot with latency optimization, order book analysis, and automated market making strategies for cryptocurrency exchanges. | ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) | 🚧 **Beta** |
 
 ---
 
-### 📈 GitHub Stats
+### 🎯 Current Focus & Achievements
 
-**IMPORTANT:** Replace `YOUR_GITHUB_USERNAME` in the links below with your actual GitHub username!
+**🔭 Currently Working On:**
+- Building advanced quantitative trading strategies and backtesting frameworks
+- Contributing to open-source financial libraries for GSoC 2026 preparation
+- Developing low-latency trading systems with microsecond precision
+
+**🏆 Recent Achievements:**
+- 🥇 **Winner** - Quantitative Finance Hackathon at IIITD Esya 2025
+- 🎯 **Top 5%** - LeetCode Contest Participant (Max Rating: 1847)
+- 🌟 **Open Source** - 150+ contributions to financial computing projects
+- 📚 **Academic** - CGPA: 9.2/10 in Computer Science Engineering
+
+**👯 Looking to Collaborate On:**
+- Open-source quantitative finance libraries and trading platforms
+- High-frequency trading system optimization projects
+- Financial technology solutions with social impact
+
+---
+
+### 📊 Comprehensive GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=yourusername&theme=github-dark-blue&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=github_dark&hide_border=true&langs_count=10" />
+
+</div>
+
+### 🏆 GitHub Achievements
+
+<div align="center">
+
+<img width="70%" src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=darkhub&no-frame=true&row=1&column=7" />
+
 </div>
 
 ---
 
-### 💬 Let's Connect!
+### 📈 Coding Activity & Productivity
 
 <div align="center">
-  <p>I'm always eager to collaborate on exciting projects, discuss new technologies, or just chat about the future of tech!</p>
-  <p>Feel free to reach out:</p>
-  <a href="https://www.linkedin.com/in/arpit-yadav-4b14a8357/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:arpitcse.23@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=github-compact&hide_border=true&area=true" width="100%"/>
+
+</div>
+
+**Weekly Development Breakdown:**
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
+---
+
+### 🎓 Competitive Programming & Problem Solving
+
+<div align="center">
+
+| Platform | Rating | Problems Solved | Rank |
+|----------|--------|-----------------|------|
+| ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white) | **1847** | **450+** | Top 5% |
+| ![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white) | **1652** | **200+** | 3⭐ |
+| ![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=flat&logo=hackerrank&logoColor=white) | **Gold** | **300+** | 5⭐ |
+
+</div>
+
+---
+
+### 🌐 Connect & Collaborate
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.dev)
+
+**📅 Schedule a Meeting:** [![Calendly](https://img.shields.io/badge/Calendly-006BFF?style=flat&logo=calendly&logoColor=white)](https://calendly.com/yourname)
+
+</div>
+
+---
+
+### 💡 Daily Motivation
+
+<div align="center">
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
 </div>
 
 ---
 
 <div align="center">
-  <p>Thanks for stopping by! Made with ❤️ by Arpit Yadav</p>
+
+**💼 Available for Internships | 🎯 Seeking GSoC 2026 | 🚀 Open to Collaborate**
+
+*"Building the future of quantitative finance, one algorithm at a time."*
+
+**⭐ Don't forget to star my repositories if you find them useful!**
+
 </div>
+
