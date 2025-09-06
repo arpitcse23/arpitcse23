@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Arpit — a Computer Science student and Full-Stack Web Developer.
+# 👋 Hi, I’m Arpit — a Full-Stack Developer and ML Enthusiast.
 
 I’m passionate about Artificial Intelligence and Machine Learning, with a special interest in their applications in finance.
 I enjoy building scalable applications and experimenting with new technologies that solve real-world problems.
@@ -173,7 +173,7 @@ Here are some of the projects I'm most proud of. Click the links to explore them
 
 **💼 Available for Internships | 🎯 Seeking GSoC 2026 | 🚀 Open to Collaborate**
 
-*"Building the future of quantitative finance, one algorithm at a time."*
+*"Building the future of software & technology , one algorithm at a time."*
 
 **⭐ Don't forget to star my repositories if you find them useful!**
 
