@@ -1,10 +1,14 @@
-# Hi there, I'm Arpit kumar yadav👋
+# 👋 Hi, I’m Arpit — a Computer Science student and Full-Stack Web Developer.
 
-I'm a passionate **Computer Science Engineering student** and **quantitative finance enthusiast**, currently building my path toward becoming a quant engineer at top HFT firms. My focus is on creating intelligent, scalable applications that solve real-world problems, particularly at the intersection of **technology and finance**.
+I’m passionate about Artificial Intelligence and Machine Learning, with a special interest in their applications in finance.
+I enjoy building scalable applications and experimenting with new technologies that solve real-world problems.
+
+I actively contribute to open-source projects and believe in learning through collaboration.
+My long-term goal is to become a software engineer who bridges the gap between technology and finance, creating solutions that are both intelligent and impactful.
 
 <div align="right">
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=0891b2&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=arpitcse23&color=0891b2&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -21,12 +25,14 @@ A comprehensive collection of technologies and tools I am proficient in:
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Quantitative Finance & Data Science:**
+**Machine Learning & Data Science:**
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Scikit Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+
 
 **Frontend & Backend Development:**
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -56,10 +62,10 @@ Here are some of the projects I'm most proud of. Click the links to explore them
 
 | Project | Description | Tech Stack | Status |
 |---------|-------------|------------|--------|
-| 🚀 **[Quantitative Trading Engine](https://github.com/yourusername/trading-engine)** | Advanced algorithmic trading system with real-time market data analysis, backtesting framework, and risk management for multiple asset classes. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) | ✅ **Live** |
-| 🤖 **[Gig Coach AI](https://github.com/yourusername/gigcoach-ai)** | AI-powered career coaching platform with personalized job recommendations, resume optimization, and interview preparation tools for freelancers and job seekers. | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | 🏆 **Winner** |
-| 📊 **[Portfolio Optimization Tool](https://github.com/yourusername/portfolio-optimizer)** | Modern portfolio theory implementation with Monte Carlo simulations, efficient frontier calculation, and risk-adjusted returns analysis. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=matplotlib&logoColor=white) | 🔄 **Active** |
-| 🤖 **[HFT Market Maker Bot](https://github.com/yourusername/market-maker)** | High-frequency trading bot with latency optimization, order book analysis, and automated market making strategies for cryptocurrency exchanges. | ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) | 🚧 **Beta** |
+| 🚀 **[Quantitative Trading Engine](https://github.com/arpitcse23/trading-engine)** | Advanced algorithmic trading system with real-time market data analysis, backtesting framework, and risk management for multiple asset classes. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) | ✅ **Live** |
+| 🤖 **[Gig Advisior AI](https://github.com/arpitcse23/gigcoach-ai)** | AI-powered career coaching platform with personalized job recommendations, resume optimization, and interview preparation tools for freelancers and job seekers. | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | 🏆 **Winner** |
+| 📊 **[Portfolio Optimization Tool](https://github.com/arpitcse23/portfolio-optimizer)** | Modern portfolio theory implementation with Monte Carlo simulations, efficient frontier calculation, and risk-adjusted returns analysis. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=matplotlib&logoColor=white) | 🔄 **Active** |
+| 🤖 **[HFT Market Maker Bot](https://github.com/arpitcse23/market-maker)** | High-frequency trading bot with latency optimization, order book analysis, and automated market making strategies for cryptocurrency exchanges. | ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) | 🚧 **Beta** |
 
 ---
 
@@ -71,9 +77,9 @@ Here are some of the projects I'm most proud of. Click the links to explore them
 - Developing low-latency trading systems with microsecond precision
 
 **🏆 Recent Achievements:**
-- 🥇 **Winner** - Quantitative Finance Hackathon at IIITD Esya 2025
-- 🎯 **Top 5%** - LeetCode Contest Participant (Max Rating: 1847)
-- 🌟 **Open Source** - 150+ contributions to financial computing projects
+- 🥇 **Hackathon** - Quantitative Finance Hackathon at IIITD Esya 2025
+- 🎯 **Top 25%** - LeetCode Contest Participant (Max Rating: 1437)
+- 🌟 **Open Source** - 30+ contributions to financial computing projects
 - 📚 **Academic** - CGPA: 9.2/10 in Computer Science Engineering
 
 **👯 Looking to Collaborate On:**
@@ -87,14 +93,14 @@ Here are some of the projects I'm most proud of. Click the links to explore them
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://streak-stats.demolab.com/?user=yourusername&theme=github-dark-blue&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=arpitcse23&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=arpitcse23&theme=github-dark-blue&hide_border=true" />
 
 </div>
 
 <div align="center">
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=github_dark&hide_border=true&langs_count=10" />
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitcse23&layout=compact&theme=github_dark&hide_border=true&langs_count=10" />
 
 </div>
 
@@ -102,7 +108,7 @@ Here are some of the projects I'm most proud of. Click the links to explore them
 
 <div align="center">
 
-<img width="70%" src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=darkhub&no-frame=true&row=1&column=7" />
+<img width="70%" src="https://github-profile-trophy.vercel.app/?username=arpitcse23&theme=darkhub&no-frame=true&row=1&column=7" />
 
 </div>
 
@@ -112,7 +118,7 @@ Here are some of the projects I'm most proud of. Click the links to explore them
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=github-compact&hide_border=true&area=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arpitcse23&theme=github-compact&hide_border=true&area=true" width="100%"/>
 
 </div>
 
@@ -129,9 +135,9 @@ Here are some of the projects I'm most proud of. Click the links to explore them
 
 | Platform | Rating | Problems Solved | Rank |
 |----------|--------|-----------------|------|
-| ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white) | **1847** | **450+** | Top 5% |
-| ![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white) | **1652** | **200+** | 3⭐ |
-| ![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=flat&logo=hackerrank&logoColor=white) | **Gold** | **300+** | 5⭐ |
+| ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white) | **1437** | **150+** | Top 25% |
+| ![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white) | **1244** | **120+** | 3⭐ |
+| ![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=flat&logo=hackerrank&logoColor=white) | **Bronze** | **90+** | 3⭐ |
 
 </div>
 
@@ -141,10 +147,10 @@ Here are some of the projects I'm most proud of. Click the links to explore them
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arpit-yadav-4b14a8357)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arpitcse.23@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/arpitcse23)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/arpitcse)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.dev)
 
 **📅 Schedule a Meeting:** [![Calendly](https://img.shields.io/badge/Calendly-006BFF?style=flat&logo=calendly&logoColor=white)](https://calendly.com/yourname)
